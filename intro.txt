@@ -5,18 +5,3 @@ and another changes into file
 
 continue...
 
-
-Added some poems
-
-
-
-and another change
-
-
-no poems today
-
-
-again another change
-
-
-and another additional commit
