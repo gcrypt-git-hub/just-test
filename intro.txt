@@ -4,7 +4,3 @@ and that text file
 and another changes into file
 
 continue...
-
-some changes
-
-And tomorrow i will add new poem
